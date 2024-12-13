@@ -9,6 +9,7 @@ function city()
         if(insertCity.toLowerCase() == cities[i].toLowerCase())
         {
             cityMatch = "yes"
+            break;
         }
     }
 
