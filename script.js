@@ -14,10 +14,10 @@ function city()
 
     if(cityMatch == "yes")
     {
-        alert("City Matched");
+        alert("City Matched...");
     }
     else{
-        alert("City Did Not Match")
+        alert("City Did Not Match!")
     }
     
 }
